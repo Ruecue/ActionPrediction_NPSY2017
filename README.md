@@ -1,10 +1,10 @@
-% ActionPrediction_NPSY2017_EEG
+# ActionPrediction_NPSY2017_EEG
 EEG Data Analysis Scripts for the 2017 Neuropsychologia paper Predictability of action sub-steps modulates motor system activation during the observation of goal-directed actions.10.1016/j.neuropsychologia.2017.07.009
 
-%Overview of the listed scripts for the EEG analysis (excluding the FieldTrip scripts):
+#Overview of the listed scripts for the EEG analysis (excluding the FieldTrip scripts):
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-ricbra_PCA14_MainAnalysis_v4 		% Main analysis script you should run
+#
+ricbra_PCA14_MainAnalysis_v4 		# Main analysis script you should run
 %calls
 ricbra_PCA14_Info 			% Contains information on your data and paths
 ricbra_PCA14_trialfun 			% Trial definition function needed for the fieldtrip part
